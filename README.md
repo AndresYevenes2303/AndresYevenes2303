@@ -15,9 +15,6 @@ I'm currently unemployed<br>I'm looking for a job as a junior developer<br>I'm l
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AndresYevenes2303&icon=2&color=2)](https://visitcount.itsvg.in)
 
